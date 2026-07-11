@@ -9,7 +9,7 @@ Predict the estimated price of a house using Machine Learning and an interactive
 
 ### 🚀 Live Demo
 
-🔗 Coming Soon...
+🔗 https://houseprice-predictor-ai.streamlit.app/
 
 ---
 
