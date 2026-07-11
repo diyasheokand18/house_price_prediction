@@ -113,12 +113,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Application Preview
-
-<img width="900" alt="Dashboard Screenshot" src="Add your Streamlit dashboard screenshot here">
-
----
-
 # 🎯 Future Scope
 
 - 📍 Location-based price prediction
