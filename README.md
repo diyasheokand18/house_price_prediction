@@ -15,7 +15,7 @@ Predict the estimated price of a house using Machine Learning and an interactive
 
 # 📖 Project Overview
 
-**HomeValue AI** is a Machine Learning-based web application that predicts the estimated price of a house based on user inputs such as the number of bedrooms, bathrooms, living area, lot area, floors, waterfront, view, and house condition.
+**prive_vision_ AI** is a Machine Learning-based web application that predicts the estimated price of a house based on user inputs such as the number of bedrooms, bathrooms, living area, lot area, floors, waterfront, view, and house condition.
 
 The prediction model is developed using the **Random Forest Regression Algorithm** and deployed through **Streamlit**, providing users with a fast, simple, and interactive interface.
 
@@ -53,7 +53,7 @@ The prediction model is developed using the **Random Forest Regression Algorithm
 # 📂 Project Structure
 
 ```
-HomeValue-AI
+price_vision-AI
 │
 ├── app.py
 ├── house_model.pkl
@@ -148,7 +148,6 @@ Python | Machine Learning | Data Science Enthusiast
 
 ## ⭐ Thank You for Visiting!
 
-If you like this project, don't forget to **⭐ Star** this repository.
 
 Made with ❤️ using Python & Streamlit
 
