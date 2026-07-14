@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 HomeValue AI
+# 🏡 price_vision_ AI
 ### Smart House Price Prediction Using Machine Learning
 
 Predict the estimated price of a house using Machine Learning and an interactive Streamlit web application.
